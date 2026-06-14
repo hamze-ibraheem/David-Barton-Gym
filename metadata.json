@@ -1,0 +1,6 @@
+{
+  "name": "David Barton Gym",
+  "description": "Premium, high-end alternative fitness club with a dark, immersive club-like atmosphere. Where the beautiful work hard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

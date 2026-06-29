@@ -1139,6 +1139,18 @@ export default function App() {
         </div>
       </footer>
 
+      {/* Floating Action Button */}
+      <a 
+        href="https://auroraadv.co/?tab=wizard"
+        target="_blank"
+        rel="noreferrer"
+        className="fixed bottom-8 right-8 z-50 flex items-center justify-center w-32 h-32 rounded-full bg-gold-accent hover:bg-gold-hover text-black shadow-[0_10px_40px_rgba(201,168,76,0.4)] hover:shadow-[0_0_50px_rgba(201,168,76,0.6)] transition-all duration-300 hover:scale-105 border border-white/20"
+      >
+        <span className="text-xs font-bold text-center leading-tight tracking-wider px-4 uppercase">
+          Get this <br/> website <br/> for only <br/> <span className="text-base font-black">$999</span>
+        </span>
+      </a>
+
     </div>
   );
 }
